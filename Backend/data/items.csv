@@ -1,0 +1,1001 @@
+id,title,description,tags,creator_id,created_at,popularity_score,likes_count,views_count,shares_count
+101,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",208,2025-03-28,1.3,31,492,4
+102,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",202,2025-06-04,7.7,54,325,1
+103,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",233,2025-07-21,6.4,31,65,14
+104,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",244,2025-04-10,9.3,85,33,33
+105,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",213,2025-01-28,0.5,63,201,36
+106,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",216,2025-06-11,0.1,80,133,6
+107,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",248,2025-02-07,1.0,9,222,36
+108,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",240,2025-06-24,2.2,5,236,18
+109,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",203,2025-04-23,8.8,69,301,37
+110,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",228,2025-06-27,6.4,13,51,32
+111,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",228,2025-06-06,6.0,35,254,41
+112,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",234,2025-01-28,7.8,63,449,50
+113,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",234,2025-03-09,1.4,72,407,33
+114,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",209,2025-02-18,0.6,21,332,48
+115,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",216,2025-07-14,0.6,73,31,20
+116,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",240,2025-08-13,8.3,96,456,42
+117,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",210,2025-02-24,0.2,56,63,43
+118,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",250,2025-04-22,8.3,49,197,28
+119,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",226,2025-03-26,4.9,26,126,37
+120,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",214,2025-03-24,7.8,82,87,49
+121,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",215,2025-06-03,1.5,97,354,34
+122,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",214,2025-08-03,0.5,88,488,11
+123,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",236,2025-03-26,9.8,69,276,33
+124,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",250,2025-02-11,5.7,36,470,15
+125,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",242,2025-07-18,9.0,67,375,23
+126,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",223,2025-08-17,5.4,22,424,40
+127,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",246,2025-03-20,4.7,84,362,49
+128,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",217,2025-03-08,5.2,88,377,21
+129,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",235,2025-04-23,1.3,34,67,4
+130,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",228,2025-03-02,8.6,0,331,25
+131,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",221,2025-06-19,7.4,64,474,9
+132,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",210,2025-05-04,9.0,24,23,2
+133,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",223,2025-06-27,3.9,45,306,27
+134,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",234,2025-06-09,5.3,41,305,44
+135,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",233,2025-07-29,5.7,68,172,38
+136,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",212,2025-01-17,4.7,70,286,0
+137,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",218,2025-04-28,1.3,16,448,21
+138,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",209,2025-03-18,0.0,15,179,34
+139,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",210,2025-01-27,9.4,65,327,48
+140,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",226,2025-07-25,9.2,45,450,50
+141,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",210,2025-04-28,2.4,19,105,39
+142,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",228,2025-05-28,6.1,83,449,10
+143,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",206,2025-01-01,1.2,51,168,21
+144,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",220,2025-06-15,1.3,75,64,26
+145,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",212,2025-06-03,4.4,0,449,30
+146,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",215,2025-03-13,6.6,60,433,21
+147,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",249,2025-07-26,3.8,65,98,41
+148,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",249,2025-06-07,5.7,76,97,22
+149,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",225,2025-05-04,5.2,34,473,15
+150,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",220,2025-02-22,5.8,72,317,1
+151,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",230,2025-04-28,10.0,45,337,25
+152,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",247,2025-02-21,8.0,69,8,39
+153,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",215,2025-05-07,7.4,78,247,0
+154,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",219,2025-03-15,6.5,52,366,49
+155,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",236,2025-03-25,2.8,4,316,3
+156,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",220,2025-01-20,2.5,37,448,31
+157,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",220,2025-01-23,5.4,31,420,43
+158,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",234,2025-08-12,4.0,81,21,38
+159,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",244,2025-04-12,3.3,43,189,16
+160,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",239,2025-04-20,3.6,17,267,19
+161,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",242,2025-01-23,6.7,65,396,28
+162,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",201,2025-04-30,6.0,14,349,48
+163,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",230,2025-08-14,3.7,26,340,48
+164,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",233,2025-04-26,9.7,41,257,5
+165,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",211,2025-05-07,7.8,88,151,38
+166,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",206,2025-03-12,5.8,28,317,28
+167,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",250,2025-03-16,7.2,17,324,48
+168,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",237,2025-04-25,7.8,39,486,32
+169,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",213,2025-03-31,5.7,13,129,40
+170,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",230,2025-05-04,6.2,88,469,32
+171,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",247,2025-06-23,0.9,75,83,3
+172,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",206,2025-07-28,8.2,95,285,33
+173,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",206,2025-03-16,5.6,41,393,49
+174,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",230,2025-06-26,5.9,80,126,2
+175,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",215,2025-06-04,0.1,27,295,32
+176,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",202,2025-08-07,9.3,84,338,23
+177,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",220,2025-03-07,9.8,86,454,20
+178,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",205,2025-04-13,6.5,99,444,30
+179,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",219,2025-02-23,1.9,75,212,12
+180,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",216,2025-06-12,7.4,71,362,15
+181,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",233,2025-04-07,2.6,74,113,43
+182,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",215,2025-06-07,1.6,9,36,40
+183,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",231,2025-06-13,2.5,6,115,42
+184,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",210,2025-07-23,8.5,41,259,30
+185,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",223,2025-06-26,1.5,5,208,24
+186,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",228,2025-06-22,7.6,84,428,48
+187,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",222,2025-04-17,8.3,20,370,23
+188,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",235,2025-05-01,5.2,78,233,2
+189,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",210,2025-04-25,7.6,38,445,33
+190,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",207,2025-01-12,0.7,28,494,40
+191,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",238,2025-04-27,6.8,22,353,18
+192,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",203,2025-02-01,1.8,65,239,18
+193,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",229,2025-01-05,7.3,91,255,38
+194,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",230,2025-08-06,2.9,77,419,36
+195,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",241,2025-07-06,0.1,82,252,47
+196,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",247,2025-07-05,3.7,40,300,19
+197,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",204,2025-06-22,9.0,56,306,46
+198,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",227,2025-06-01,1.2,25,361,48
+199,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",221,2025-05-11,1.0,29,390,27
+200,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",248,2025-07-31,0.8,90,497,32
+201,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",234,2025-05-08,9.5,67,374,29
+202,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",222,2025-01-22,9.4,81,384,19
+203,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",241,2025-04-14,2.1,56,201,21
+204,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",245,2025-08-07,5.8,12,260,3
+205,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",248,2025-03-23,7.4,32,33,8
+206,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",223,2025-07-22,9.9,96,408,19
+207,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",234,2025-04-27,3.8,58,44,16
+208,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",246,2025-08-12,1.5,6,102,29
+209,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",250,2025-08-05,8.6,74,337,38
+210,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",233,2025-08-03,9.4,68,148,31
+211,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",217,2025-05-01,5.5,98,124,41
+212,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",224,2025-06-23,8.4,75,494,48
+213,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",233,2025-02-18,3.4,3,481,16
+214,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",226,2025-07-24,0.5,57,475,8
+215,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",231,2025-05-29,1.2,60,139,36
+216,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",212,2025-05-30,3.5,56,427,43
+217,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",210,2025-02-03,3.6,36,446,44
+218,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",219,2025-03-05,8.4,93,22,40
+219,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",249,2025-02-15,7.1,72,25,31
+220,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",203,2025-05-24,3.4,69,400,37
+221,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",208,2025-05-02,1.8,46,130,48
+222,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",210,2025-06-09,8.4,8,383,36
+223,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",218,2025-04-21,5.7,32,274,5
+224,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",237,2025-03-07,7.5,26,241,39
+225,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",214,2025-04-03,2.9,41,149,31
+226,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",212,2025-04-12,7.0,50,482,24
+227,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",242,2025-01-01,2.7,36,157,3
+228,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",222,2025-03-20,3.0,45,257,39
+229,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",244,2025-05-12,6.8,26,223,46
+230,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",239,2025-05-28,7.3,47,138,5
+231,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",245,2025-04-04,5.5,78,421,33
+232,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",228,2025-04-14,3.8,73,412,50
+233,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",244,2025-06-21,0.6,68,244,2
+234,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",248,2025-01-23,6.5,15,254,15
+235,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",213,2025-05-30,7.1,71,364,1
+236,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",224,2025-02-21,5.2,82,72,26
+237,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",224,2025-03-04,4.0,95,311,36
+238,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",209,2025-06-13,4.0,66,434,20
+239,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",201,2025-06-28,3.8,33,332,1
+240,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",220,2025-05-21,9.2,73,129,23
+241,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",245,2025-01-06,3.5,65,493,22
+242,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",227,2025-01-18,1.6,33,72,29
+243,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",201,2025-03-04,1.2,88,187,44
+244,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",246,2025-07-17,1.0,99,432,13
+245,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",238,2025-04-05,9.9,51,224,31
+246,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",219,2025-07-05,1.5,24,386,30
+247,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",243,2025-01-24,8.7,70,437,40
+248,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",239,2025-04-28,0.4,36,477,27
+249,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",220,2025-07-06,1.8,81,161,42
+250,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",235,2025-06-29,5.1,28,465,20
+251,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",228,2025-05-03,6.6,24,330,30
+252,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",233,2025-01-11,9.1,5,489,44
+253,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",203,2025-06-08,1.8,71,470,5
+254,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",243,2025-05-13,5.6,57,104,28
+255,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",215,2025-05-13,4.3,72,273,4
+256,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",202,2025-04-12,0.9,4,229,50
+257,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",240,2025-07-22,9.7,46,58,35
+258,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",238,2025-04-29,4.8,87,276,21
+259,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",243,2025-02-22,6.9,54,233,26
+260,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",206,2025-03-19,3.6,38,392,29
+261,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",215,2025-04-24,5.3,29,337,15
+262,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",209,2025-07-05,5.3,3,255,18
+263,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",245,2025-06-08,0.2,59,456,22
+264,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",238,2025-06-07,2.4,31,361,1
+265,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",203,2025-02-23,9.6,71,458,9
+266,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",217,2025-07-14,4.9,53,408,30
+267,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",216,2025-08-16,3.9,50,428,13
+268,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",239,2025-04-17,1.8,9,418,49
+269,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",247,2025-07-18,6.3,90,44,29
+270,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",215,2025-04-09,9.9,62,363,19
+271,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",227,2025-03-29,8.5,90,106,15
+272,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",234,2025-05-26,9.3,18,477,19
+273,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",215,2025-06-05,2.4,87,70,42
+274,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",220,2025-08-14,5.0,50,500,24
+275,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",237,2025-06-18,2.0,73,23,25
+276,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",228,2025-06-13,2.2,40,240,44
+277,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",247,2025-03-16,4.0,79,216,39
+278,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",232,2025-06-28,0.5,83,34,39
+279,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",239,2025-04-09,5.9,21,16,3
+280,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",202,2025-03-20,3.1,90,453,20
+281,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",243,2025-06-23,5.1,5,154,36
+282,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",211,2025-07-19,1.8,45,458,47
+283,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",228,2025-03-31,7.0,8,319,32
+284,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",202,2025-03-30,3.5,81,71,26
+285,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",204,2025-02-05,1.3,12,107,21
+286,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",204,2025-06-13,2.1,43,493,29
+287,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",243,2025-04-04,0.0,84,383,15
+288,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",205,2025-06-14,0.3,47,239,35
+289,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",210,2025-07-06,4.4,64,1,8
+290,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",220,2025-07-15,5.6,15,272,44
+291,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",205,2025-03-21,4.6,17,401,43
+292,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",228,2025-03-13,7.5,2,223,22
+293,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",225,2025-01-07,1.9,13,276,48
+294,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",222,2025-08-10,6.6,71,223,6
+295,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",225,2025-04-22,6.2,89,307,45
+296,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",243,2025-03-18,1.0,78,467,39
+297,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",230,2025-02-17,6.3,22,364,19
+298,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",249,2025-01-04,4.3,68,475,48
+299,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",235,2025-01-10,8.1,33,477,32
+300,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",214,2025-05-22,5.2,89,456,25
+301,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",201,2025-02-09,6.6,14,48,27
+302,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",211,2025-04-28,6.2,44,389,14
+303,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",236,2025-06-15,6.5,39,258,34
+304,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",202,2025-01-13,5.0,42,188,8
+305,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",204,2025-03-24,4.0,24,222,27
+306,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",243,2025-07-17,7.3,83,96,12
+307,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",230,2025-06-03,2.8,10,441,21
+308,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",244,2025-08-04,2.1,48,295,23
+309,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",231,2025-05-31,8.9,8,168,9
+310,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",234,2025-03-13,9.1,19,92,41
+311,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",227,2025-01-19,8.8,1,485,8
+312,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",210,2025-02-23,4.9,12,21,3
+313,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",237,2025-06-28,0.1,35,313,47
+314,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",213,2025-02-26,4.4,81,38,24
+315,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",228,2025-04-06,8.5,90,235,39
+316,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",205,2025-05-11,4.3,24,152,42
+317,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",234,2025-01-06,1.6,45,404,12
+318,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",205,2025-04-10,3.8,55,139,27
+319,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",208,2025-05-25,8.2,18,186,21
+320,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",203,2025-08-06,7.8,68,410,15
+321,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",223,2025-02-08,2.7,99,405,33
+322,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",210,2025-02-06,1.9,26,484,28
+323,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",249,2025-07-24,3.4,73,8,46
+324,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",207,2025-08-10,1.0,82,47,36
+325,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",247,2025-03-13,2.3,64,163,12
+326,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",244,2025-05-09,4.2,69,242,3
+327,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",206,2025-07-30,1.2,12,272,28
+328,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",232,2025-02-19,6.8,54,8,27
+329,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",246,2025-07-08,6.7,49,23,36
+330,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",226,2025-04-07,6.4,92,379,10
+331,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",243,2025-02-07,8.9,68,302,2
+332,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",246,2025-08-09,5.3,61,166,11
+333,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",231,2025-05-06,4.5,83,322,9
+334,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",238,2025-03-14,8.5,100,43,29
+335,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",225,2025-05-30,3.0,51,39,1
+336,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",201,2025-02-14,5.3,29,158,43
+337,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",234,2025-02-28,0.3,23,461,17
+338,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",232,2025-06-30,0.2,53,106,4
+339,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",248,2025-06-05,3.9,85,266,47
+340,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",237,2025-07-23,2.1,62,467,0
+341,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",228,2025-06-04,0.9,92,44,5
+342,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",209,2025-07-04,5.4,55,69,4
+343,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",215,2025-04-27,7.9,8,160,18
+344,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",248,2025-03-12,4.8,82,136,13
+345,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",226,2025-06-25,3.4,72,424,39
+346,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",203,2025-03-26,9.3,82,30,38
+347,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",250,2025-04-21,5.8,100,353,41
+348,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",211,2025-07-01,9.2,78,229,48
+349,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",232,2025-06-25,9.5,87,67,32
+350,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",223,2025-03-17,1.4,86,382,33
+351,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",229,2025-03-30,2.6,48,16,21
+352,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",236,2025-06-23,4.8,18,173,9
+353,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",218,2025-04-04,6.9,23,423,50
+354,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",212,2025-05-22,4.1,94,449,31
+355,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",217,2025-04-25,7.3,67,301,47
+356,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",222,2025-07-21,3.5,19,214,29
+357,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",226,2025-04-07,4.2,96,64,16
+358,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",248,2025-05-19,0.7,63,75,46
+359,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",224,2025-05-01,3.8,5,237,17
+360,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",229,2025-03-25,4.9,77,214,24
+361,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",216,2025-05-09,8.3,74,463,26
+362,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",233,2025-04-30,6.0,46,228,38
+363,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",241,2025-06-12,4.3,94,295,30
+364,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",233,2025-01-23,8.7,13,438,19
+365,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",212,2025-01-08,9.2,71,478,33
+366,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",231,2025-01-11,9.2,38,93,48
+367,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",238,2025-07-08,8.0,61,157,14
+368,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",211,2025-04-20,6.7,87,471,33
+369,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",207,2025-01-05,6.1,62,458,33
+370,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",210,2025-04-27,4.7,1,400,41
+371,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",232,2025-04-06,4.3,22,397,13
+372,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",202,2025-04-08,1.6,73,106,48
+373,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",203,2025-06-21,6.4,3,173,32
+374,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",211,2025-01-16,3.7,40,54,50
+375,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",209,2025-08-03,5.3,30,369,32
+376,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",212,2025-07-11,5.3,35,66,25
+377,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",245,2025-06-03,3.0,97,61,10
+378,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",225,2025-03-28,6.0,65,233,23
+379,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",245,2025-01-24,5.2,16,491,17
+380,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",234,2025-03-08,7.8,71,98,42
+381,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",218,2025-01-17,3.8,82,258,29
+382,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",220,2025-06-14,9.2,37,204,29
+383,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",239,2025-07-21,7.0,80,349,45
+384,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",237,2025-02-17,4.3,86,62,32
+385,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",222,2025-06-18,3.8,76,257,42
+386,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",221,2025-02-16,7.8,35,389,27
+387,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",207,2025-07-16,3.6,88,262,2
+388,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",217,2025-05-25,4.3,91,64,34
+389,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",211,2025-04-26,1.2,58,99,26
+390,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",216,2025-06-28,8.9,39,390,45
+391,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",206,2025-03-28,8.9,98,42,23
+392,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",234,2025-04-29,1.9,67,334,23
+393,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",250,2025-08-15,2.5,52,119,5
+394,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",246,2025-01-25,8.9,69,263,4
+395,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",203,2025-07-08,9.2,84,336,30
+396,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",229,2025-02-22,10.0,65,121,0
+397,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",228,2025-02-20,5.1,95,221,22
+398,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",235,2025-04-28,8.5,29,399,18
+399,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",233,2025-06-03,9.7,21,162,8
+400,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",240,2025-01-01,1.5,65,346,49
+401,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",244,2025-04-30,3.3,79,369,22
+402,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",233,2025-01-29,3.1,6,489,22
+403,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",231,2025-01-02,0.3,34,404,14
+404,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",225,2025-06-03,5.0,53,401,18
+405,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",226,2025-06-02,2.6,68,412,29
+406,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",227,2025-07-06,7.4,100,46,11
+407,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",220,2025-02-21,2.2,82,451,46
+408,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",226,2025-07-06,9.3,46,461,31
+409,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",221,2025-04-08,5.3,43,172,5
+410,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",222,2025-02-23,7.6,89,180,40
+411,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",247,2025-07-28,2.7,1,267,42
+412,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",207,2025-06-11,7.3,51,392,18
+413,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",228,2025-02-12,6.0,37,125,43
+414,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",218,2025-02-09,0.7,16,218,32
+415,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",226,2025-06-25,1.8,36,117,37
+416,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",208,2025-04-29,5.9,0,178,16
+417,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",239,2025-01-08,6.6,63,429,30
+418,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",246,2025-04-23,7.4,48,127,32
+419,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",246,2025-07-22,6.3,67,120,24
+420,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",225,2025-05-14,0.5,26,116,18
+421,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",208,2025-03-12,0.2,20,4,26
+422,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",213,2025-08-04,1.0,92,437,25
+423,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",208,2025-01-25,1.9,68,287,3
+424,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",205,2025-03-01,9.5,57,110,7
+425,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",207,2025-08-13,3.4,35,352,8
+426,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",228,2025-04-15,8.4,33,448,33
+427,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",234,2025-05-27,1.9,49,287,36
+428,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",218,2025-05-26,6.5,42,500,12
+429,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",220,2025-05-16,0.9,89,375,44
+430,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",249,2025-06-09,1.6,87,51,37
+431,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",207,2025-08-03,5.6,65,361,17
+432,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",244,2025-08-19,0.3,87,408,14
+433,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",246,2025-05-20,8.8,36,491,13
+434,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",223,2025-05-11,3.9,6,76,11
+435,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",215,2025-02-06,5.1,88,217,45
+436,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",208,2025-01-12,5.7,43,477,19
+437,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",222,2025-04-05,9.1,15,39,37
+438,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",229,2025-01-24,9.9,82,107,6
+439,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",240,2025-08-18,4.5,0,484,34
+440,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",239,2025-01-10,1.0,43,461,3
+441,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",235,2025-06-25,2.1,57,160,35
+442,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",215,2025-07-22,0.2,84,491,0
+443,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",214,2025-08-03,0.7,25,387,36
+444,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",233,2025-03-06,4.1,78,464,13
+445,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",244,2025-01-03,6.2,69,185,24
+446,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",230,2025-02-03,8.8,36,19,33
+447,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",208,2025-05-26,6.0,68,166,48
+448,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",247,2025-03-30,0.6,29,356,33
+449,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",244,2025-08-13,3.4,38,397,32
+450,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",206,2025-08-08,4.7,75,66,32
+451,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",244,2025-07-12,7.6,3,141,44
+452,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",235,2025-05-19,5.6,39,276,12
+453,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",217,2025-01-30,9.8,40,64,33
+454,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",242,2025-02-05,1.7,61,305,14
+455,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",211,2025-03-17,4.8,96,113,18
+456,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",216,2025-07-05,8.6,72,43,6
+457,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",225,2025-01-20,9.9,100,487,31
+458,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",206,2025-03-17,9.0,26,325,14
+459,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",236,2025-07-28,3.1,85,213,10
+460,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",223,2025-01-26,1.1,87,264,18
+461,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",231,2025-08-16,7.3,34,156,15
+462,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",230,2025-06-17,7.1,65,35,45
+463,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",224,2025-05-05,1.7,97,420,40
+464,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",211,2025-03-19,4.2,54,405,11
+465,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",205,2025-01-08,3.6,80,81,23
+466,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",230,2025-04-28,8.8,0,229,45
+467,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",204,2025-02-24,6.7,23,471,30
+468,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",238,2025-04-08,1.0,7,352,43
+469,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",216,2025-07-11,10.0,48,478,4
+470,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",239,2025-06-14,0.3,98,382,3
+471,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",213,2025-04-30,7.7,80,439,0
+472,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",238,2025-08-02,5.5,81,234,31
+473,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",222,2025-03-25,3.8,34,444,16
+474,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",237,2025-04-08,0.2,56,372,5
+475,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",231,2025-01-30,1.7,81,390,40
+476,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",213,2025-07-08,5.3,11,474,32
+477,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",213,2025-03-10,4.6,41,94,46
+478,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",233,2025-06-20,6.3,78,199,23
+479,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",208,2025-03-23,7.8,27,286,22
+480,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",215,2025-02-24,8.4,13,350,50
+481,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",222,2025-03-30,9.0,35,13,12
+482,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",239,2025-05-10,0.2,88,477,8
+483,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",226,2025-03-01,5.7,49,392,29
+484,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",230,2025-01-17,0.1,48,347,6
+485,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",233,2025-06-23,6.7,50,370,50
+486,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",243,2025-06-05,1.3,38,174,14
+487,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",204,2025-02-03,7.8,97,241,7
+488,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",221,2025-03-05,8.2,75,376,24
+489,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",214,2025-07-12,1.7,56,86,11
+490,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",234,2025-08-02,4.1,87,349,39
+491,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",219,2025-05-21,2.1,29,28,28
+492,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",208,2025-04-16,1.3,73,14,18
+493,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",207,2025-03-12,6.9,24,286,31
+494,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",204,2025-06-25,5.0,10,58,10
+495,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",225,2025-05-27,3.5,77,230,13
+496,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",213,2025-02-24,0.8,93,285,32
+497,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",235,2025-05-24,6.1,79,428,0
+498,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",226,2025-07-13,1.0,72,411,8
+499,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",228,2025-06-15,4.8,72,382,46
+500,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",223,2025-03-05,1.5,68,242,42
+501,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",202,2025-03-31,0.1,85,296,4
+502,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",201,2025-05-16,5.3,8,194,2
+503,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",240,2025-04-03,6.7,80,30,46
+504,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",243,2025-02-01,1.0,17,474,49
+505,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",239,2025-07-10,6.9,45,351,33
+506,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",205,2025-03-30,1.4,59,279,31
+507,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",228,2025-07-16,0.0,33,219,5
+508,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",214,2025-05-30,9.1,7,23,12
+509,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",201,2025-07-10,6.0,85,13,12
+510,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",230,2025-03-01,7.2,86,47,13
+511,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",213,2025-05-16,3.1,34,300,20
+512,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",247,2025-06-29,6.0,15,163,14
+513,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",209,2025-01-16,3.3,97,2,29
+514,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",212,2025-03-10,8.2,38,441,6
+515,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",214,2025-04-14,1.8,41,56,15
+516,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",214,2025-05-24,4.4,79,81,43
+517,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",223,2025-06-16,7.0,63,446,36
+518,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",248,2025-01-16,6.6,96,320,44
+519,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",215,2025-05-10,1.3,78,385,27
+520,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",223,2025-04-05,8.1,39,358,49
+521,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",246,2025-04-16,8.4,5,339,5
+522,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",246,2025-08-13,7.0,9,350,7
+523,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",224,2025-01-17,2.0,81,161,31
+524,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",221,2025-02-23,1.7,65,171,10
+525,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",250,2025-07-24,3.1,58,341,15
+526,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",225,2025-02-13,1.1,41,393,32
+527,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",211,2025-05-26,0.7,48,59,2
+528,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",207,2025-05-10,4.8,32,107,6
+529,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",219,2025-04-17,5.4,69,83,31
+530,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",227,2025-06-05,3.1,48,42,26
+531,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",204,2025-04-14,2.2,40,141,45
+532,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",228,2025-03-12,1.8,52,172,14
+533,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",226,2025-06-16,9.2,68,293,8
+534,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",206,2025-08-01,0.2,57,345,5
+535,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",224,2025-04-13,7.8,33,37,28
+536,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",234,2025-04-05,9.5,6,407,33
+537,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",215,2025-07-17,3.9,39,72,50
+538,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",246,2025-05-08,2.5,0,242,8
+539,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",233,2025-02-07,1.2,57,51,7
+540,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",216,2025-02-04,7.5,55,112,46
+541,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",206,2025-06-01,1.4,68,285,23
+542,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",216,2025-01-06,7.6,14,342,32
+543,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",223,2025-05-16,9.0,60,273,10
+544,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",207,2025-03-16,1.2,99,190,37
+545,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",243,2025-02-25,4.1,61,202,5
+546,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",244,2025-01-13,0.1,47,494,8
+547,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",243,2025-05-16,0.4,46,259,20
+548,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",236,2025-08-17,1.4,72,36,28
+549,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",221,2025-02-16,9.1,84,275,49
+550,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",203,2025-03-01,4.1,19,98,12
+551,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",248,2025-08-06,7.0,70,102,20
+552,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",228,2025-07-18,8.7,85,479,31
+553,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",226,2025-05-18,4.4,81,214,26
+554,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",243,2025-06-16,9.4,19,57,33
+555,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",232,2025-02-23,8.7,10,296,32
+556,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",209,2025-05-19,3.6,81,170,12
+557,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",223,2025-06-02,0.5,51,13,31
+558,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",217,2025-07-27,9.8,11,491,27
+559,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",218,2025-03-13,8.2,12,477,48
+560,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",204,2025-01-19,5.3,86,218,0
+561,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",223,2025-08-16,7.9,100,275,12
+562,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",211,2025-06-09,3.4,28,125,30
+563,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",233,2025-04-28,8.3,96,86,3
+564,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",223,2025-06-15,9.8,72,271,45
+565,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",219,2025-07-20,7.8,14,99,29
+566,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",245,2025-01-28,2.8,7,297,36
+567,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",214,2025-03-12,10.0,20,163,15
+568,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",222,2025-05-13,4.2,79,66,43
+569,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",204,2025-01-07,9.6,63,452,43
+570,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",248,2025-02-24,2.1,54,344,2
+571,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",225,2025-05-10,2.7,77,33,5
+572,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",249,2025-03-25,0.5,42,149,33
+573,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",236,2025-05-08,1.8,55,496,42
+574,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",243,2025-02-04,8.1,42,453,13
+575,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",213,2025-07-07,9.8,95,168,16
+576,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",201,2025-01-09,8.8,0,188,42
+577,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",204,2025-01-02,1.6,28,372,22
+578,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",232,2025-02-22,7.2,26,168,16
+579,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",238,2025-01-16,8.8,7,458,32
+580,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",218,2025-04-30,9.9,63,158,19
+581,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",246,2025-07-18,3.3,11,137,6
+582,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",243,2025-03-14,1.7,42,361,12
+583,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",229,2025-01-13,2.5,44,311,29
+584,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",240,2025-02-03,1.5,14,279,36
+585,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",246,2025-07-08,8.8,21,475,7
+586,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",226,2025-02-10,3.9,28,96,16
+587,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",248,2025-05-29,3.7,90,395,25
+588,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",220,2025-04-09,7.8,6,283,20
+589,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",229,2025-01-26,7.8,75,1,2
+590,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",229,2025-07-20,0.3,16,405,19
+591,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",221,2025-07-20,9.0,5,415,17
+592,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",217,2025-02-01,3.5,87,25,2
+593,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",236,2025-05-30,2.1,27,78,5
+594,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",246,2025-03-03,4.5,48,497,27
+595,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",219,2025-05-06,2.7,62,175,1
+596,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",201,2025-04-24,2.3,45,469,13
+597,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",202,2025-01-26,2.6,3,327,48
+598,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",231,2025-06-26,9.0,96,22,40
+599,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",236,2025-04-11,6.8,99,397,9
+600,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",243,2025-04-13,2.0,37,192,32
+601,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",209,2025-04-06,6.7,61,235,42
+602,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",206,2025-04-15,0.1,21,39,32
+603,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",215,2025-03-10,4.0,22,198,40
+604,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",215,2025-04-01,4.9,29,205,34
+605,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",221,2025-05-23,7.1,37,445,8
+606,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",237,2025-07-04,6.8,2,124,33
+607,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",238,2025-03-16,9.0,87,474,21
+608,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",239,2025-06-21,7.3,83,12,38
+609,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",214,2025-04-07,1.8,59,279,31
+610,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",228,2025-06-24,7.5,85,32,46
+611,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",236,2025-07-31,5.2,51,112,38
+612,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",227,2025-07-08,1.8,52,63,15
+613,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",205,2025-03-24,6.8,27,49,37
+614,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",236,2025-02-11,9.1,68,361,39
+615,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",238,2025-05-13,4.9,99,471,8
+616,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",232,2025-08-07,7.2,29,130,10
+617,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",241,2025-05-19,2.4,96,120,21
+618,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",219,2025-05-19,7.4,25,333,17
+619,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",242,2025-04-13,2.2,71,4,16
+620,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",241,2025-06-13,6.2,85,57,21
+621,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",205,2025-01-28,2.8,15,154,12
+622,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",204,2025-02-24,10.0,73,67,0
+623,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",246,2025-07-03,9.7,38,19,3
+624,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",226,2025-03-10,8.0,17,345,42
+625,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",206,2025-06-30,0.5,1,236,5
+626,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",204,2025-04-10,5.7,41,266,48
+627,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",223,2025-07-01,4.8,48,428,1
+628,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",241,2025-01-07,9.8,79,57,0
+629,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",244,2025-05-31,7.4,50,495,19
+630,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",211,2025-02-08,4.2,76,0,10
+631,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",238,2025-08-10,3.0,56,271,10
+632,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",214,2025-06-06,6.5,65,376,16
+633,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",209,2025-05-11,5.6,99,268,6
+634,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",215,2025-08-07,7.1,75,127,13
+635,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",230,2025-07-09,8.8,32,38,22
+636,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",233,2025-01-01,2.4,27,64,11
+637,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",213,2025-04-22,5.3,5,354,0
+638,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",217,2025-04-05,3.1,73,6,20
+639,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",225,2025-04-11,2.1,43,87,11
+640,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",241,2025-06-13,0.6,31,346,24
+641,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",247,2025-03-23,0.4,58,421,7
+642,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",218,2025-02-22,7.4,24,365,9
+643,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",213,2025-05-23,3.6,80,438,33
+644,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",232,2025-03-04,4.8,23,113,19
+645,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",243,2025-05-27,1.5,89,370,4
+646,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",214,2025-03-07,6.3,100,106,37
+647,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",205,2025-07-07,0.2,72,467,38
+648,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",241,2025-04-15,7.4,12,309,49
+649,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",205,2025-07-01,8.2,14,184,29
+650,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",223,2025-07-23,0.2,12,384,22
+651,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",222,2025-06-12,5.7,34,136,27
+652,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",225,2025-06-12,9.2,60,413,34
+653,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",222,2025-06-04,5.4,86,218,10
+654,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",246,2025-03-11,9.5,74,343,44
+655,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",202,2025-06-22,0.6,70,375,27
+656,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",221,2025-08-13,8.0,11,281,14
+657,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",237,2025-05-18,6.9,93,359,40
+658,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",214,2025-01-08,9.3,11,116,10
+659,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",230,2025-04-28,2.1,60,203,50
+660,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",234,2025-05-26,9.5,57,445,22
+661,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",209,2025-04-20,9.8,91,84,7
+662,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",217,2025-06-01,5.6,15,397,13
+663,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",210,2025-02-13,7.3,85,140,34
+664,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",248,2025-02-21,7.2,87,368,33
+665,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",214,2025-05-22,3.7,99,460,38
+666,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",233,2025-03-13,5.0,68,221,39
+667,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",215,2025-03-24,6.2,100,294,39
+668,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",239,2025-07-02,6.2,73,126,11
+669,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",206,2025-01-17,5.4,40,495,30
+670,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",227,2025-04-01,1.3,88,194,19
+671,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",215,2025-06-30,7.4,22,52,5
+672,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",217,2025-04-13,3.9,89,22,44
+673,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",210,2025-01-25,8.6,96,69,28
+674,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",210,2025-07-04,4.6,8,229,20
+675,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",234,2025-06-28,3.4,20,64,36
+676,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",220,2025-06-21,0.2,34,447,44
+677,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",226,2025-01-21,0.2,2,20,0
+678,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",219,2025-05-04,7.5,68,326,48
+679,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",222,2025-08-08,9.8,82,321,2
+680,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",217,2025-05-28,2.4,9,296,37
+681,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",232,2025-04-12,6.7,2,367,22
+682,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",237,2025-04-29,9.7,30,351,19
+683,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",226,2025-03-25,4.4,99,278,20
+684,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",248,2025-06-10,6.7,43,493,33
+685,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",202,2025-04-26,9.1,59,408,30
+686,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",242,2025-03-27,5.0,19,172,8
+687,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",216,2025-07-09,4.7,86,442,37
+688,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",242,2025-01-20,2.0,6,170,8
+689,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",223,2025-04-05,7.1,66,44,13
+690,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",223,2025-06-04,2.3,97,264,35
+691,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",209,2025-05-03,6.1,28,77,45
+692,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",231,2025-08-02,0.0,32,124,11
+693,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",243,2025-04-04,2.4,36,260,50
+694,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",239,2025-01-27,1.8,63,3,43
+695,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",249,2025-07-24,5.1,59,243,28
+696,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",202,2025-08-01,1.6,91,211,4
+697,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",245,2025-03-11,5.2,39,261,28
+698,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",211,2025-07-03,5.9,77,21,6
+699,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",227,2025-05-12,0.1,45,297,20
+700,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",244,2025-05-09,6.3,41,497,40
+701,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",227,2025-05-19,0.7,14,472,2
+702,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",225,2025-05-03,3.3,0,104,29
+703,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",221,2025-02-04,1.4,41,236,14
+704,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",234,2025-03-11,7.5,98,215,41
+705,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",236,2025-02-15,6.7,5,46,35
+706,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",203,2025-03-12,7.5,81,274,8
+707,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",208,2025-05-17,4.3,19,362,6
+708,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",217,2025-04-03,2.8,82,457,34
+709,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",237,2025-04-27,9.4,49,115,47
+710,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",201,2025-01-09,5.7,3,347,43
+711,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",230,2025-04-27,8.3,9,299,4
+712,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",248,2025-04-08,4.4,79,225,39
+713,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",223,2025-01-06,2.3,3,234,13
+714,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",221,2025-05-10,9.0,40,243,10
+715,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",221,2025-05-11,7.6,82,359,24
+716,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",215,2025-06-19,3.3,14,20,47
+717,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",245,2025-04-24,2.0,6,159,1
+718,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",243,2025-04-27,3.6,58,461,50
+719,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",223,2025-01-25,1.1,54,188,3
+720,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",207,2025-04-16,6.1,95,119,38
+721,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",248,2025-07-25,6.1,53,415,25
+722,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",220,2025-01-28,7.4,6,239,49
+723,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",250,2025-03-11,9.0,75,295,16
+724,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",244,2025-05-10,3.8,77,294,15
+725,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",245,2025-05-13,4.4,4,92,27
+726,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",228,2025-03-21,6.2,75,464,40
+727,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",223,2025-04-20,4.5,37,472,29
+728,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",225,2025-08-03,8.6,29,243,18
+729,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",201,2025-07-14,7.3,28,364,43
+730,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",213,2025-04-25,7.2,95,300,26
+731,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",245,2025-05-07,0.3,65,103,15
+732,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",235,2025-02-20,2.2,1,444,12
+733,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",225,2025-03-30,7.9,41,233,35
+734,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",245,2025-05-25,6.3,26,446,42
+735,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",230,2025-01-03,3.6,75,104,27
+736,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",248,2025-05-09,0.5,22,322,18
+737,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",233,2025-06-06,7.2,96,388,50
+738,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",218,2025-04-19,9.1,15,304,35
+739,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",216,2025-07-06,7.4,58,270,28
+740,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",238,2025-04-11,8.8,32,246,4
+741,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",243,2025-06-27,4.7,44,110,44
+742,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",235,2025-04-12,5.3,79,49,6
+743,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",224,2025-07-20,1.8,97,316,1
+744,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",242,2025-07-02,6.7,33,336,41
+745,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",237,2025-05-23,8.6,93,408,13
+746,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",221,2025-07-08,2.7,36,162,37
+747,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",230,2025-08-04,5.8,53,269,34
+748,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",239,2025-06-24,5.7,41,487,22
+749,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",202,2025-07-16,1.5,44,262,18
+750,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",232,2025-01-15,2.4,80,485,20
+751,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",235,2025-02-24,7.7,12,153,34
+752,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",230,2025-06-24,9.2,61,163,24
+753,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",238,2025-06-25,5.7,2,406,13
+754,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",217,2025-07-19,6.2,66,61,8
+755,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",233,2025-01-31,2.0,21,396,15
+756,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",212,2025-05-31,8.1,17,37,33
+757,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",240,2025-06-12,6.2,55,55,49
+758,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",212,2025-05-10,8.1,14,287,39
+759,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",223,2025-06-12,6.3,59,289,43
+760,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",232,2025-06-29,3.2,52,187,7
+761,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",210,2025-01-10,3.3,67,437,15
+762,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",222,2025-08-13,5.1,21,243,24
+763,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",242,2025-08-02,8.1,79,382,11
+764,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",223,2025-02-19,5.3,64,299,45
+765,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",222,2025-02-17,2.2,29,262,12
+766,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",247,2025-01-26,0.2,68,140,22
+767,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",218,2025-05-10,1.0,17,52,48
+768,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",209,2025-05-14,9.1,69,16,49
+769,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",205,2025-03-03,8.2,25,403,19
+770,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",231,2025-01-31,0.1,23,261,34
+771,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",238,2025-03-17,3.1,15,52,41
+772,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",236,2025-07-06,6.4,15,50,8
+773,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",248,2025-03-02,3.1,78,161,38
+774,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",229,2025-05-25,8.9,93,420,46
+775,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",202,2025-02-15,4.2,50,295,40
+776,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",245,2025-03-07,4.1,61,94,33
+777,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",245,2025-04-11,9.6,61,223,9
+778,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",218,2025-01-29,8.3,11,493,14
+779,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",215,2025-06-21,9.6,64,213,49
+780,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",250,2025-01-26,9.1,80,378,43
+781,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",237,2025-05-30,5.8,68,489,7
+782,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",214,2025-05-15,6.9,50,145,24
+783,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",239,2025-02-04,5.9,91,451,42
+784,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",234,2025-02-26,4.3,51,27,48
+785,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",233,2025-01-23,7.4,70,210,36
+786,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",214,2025-07-21,6.1,8,201,26
+787,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",207,2025-07-03,1.3,93,303,39
+788,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",212,2025-01-04,3.4,100,171,30
+789,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",201,2025-03-30,6.1,89,411,17
+790,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",231,2025-01-07,3.8,75,285,33
+791,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",225,2025-03-18,6.8,44,381,10
+792,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",249,2025-07-02,2.8,61,366,28
+793,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",232,2025-03-17,7.8,76,89,37
+794,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",247,2025-07-08,9.7,44,200,42
+795,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",217,2025-06-27,3.8,20,284,49
+796,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",238,2025-06-14,4.3,28,412,50
+797,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",219,2025-07-20,9.5,67,449,18
+798,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",218,2025-02-12,4.5,6,157,1
+799,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",244,2025-01-28,6.0,18,141,13
+800,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",228,2025-01-17,5.8,50,220,42
+801,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",221,2025-05-14,2.5,96,274,8
+802,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",207,2025-07-16,5.6,47,211,13
+803,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",240,2025-06-27,7.5,89,333,18
+804,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",248,2025-04-27,3.7,80,374,38
+805,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",241,2025-03-20,9.6,78,72,14
+806,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",217,2025-02-27,1.2,67,204,37
+807,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",227,2025-06-26,6.7,83,319,45
+808,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",234,2025-06-29,6.3,39,133,38
+809,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",209,2025-05-28,6.6,99,302,44
+810,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",218,2025-03-06,2.0,78,355,35
+811,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",206,2025-06-11,7.6,89,311,36
+812,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",206,2025-02-13,5.2,56,386,14
+813,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",227,2025-03-06,5.6,75,278,16
+814,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",211,2025-04-17,2.3,92,272,34
+815,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",205,2025-06-04,9.0,42,387,21
+816,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",247,2025-07-08,5.2,88,80,19
+817,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",212,2025-03-17,8.5,39,38,28
+818,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",215,2025-03-09,2.6,82,208,5
+819,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",201,2025-05-27,1.8,76,100,19
+820,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",214,2025-06-21,10.0,55,213,15
+821,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",221,2025-08-04,7.7,15,473,44
+822,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",248,2025-04-30,3.0,91,221,11
+823,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",247,2025-05-05,3.1,2,34,23
+824,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",229,2025-04-07,1.5,8,74,34
+825,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",245,2025-07-09,9.5,9,198,27
+826,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",228,2025-02-28,1.4,100,253,12
+827,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",212,2025-03-06,8.2,67,233,17
+828,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",208,2025-07-08,1.9,21,360,36
+829,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",211,2025-05-29,1.7,36,170,43
+830,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",201,2025-02-17,1.2,73,195,28
+831,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",238,2025-01-09,9.3,13,191,10
+832,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",206,2025-01-27,5.9,32,186,16
+833,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",206,2025-02-27,3.2,58,371,6
+834,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",232,2025-05-28,5.6,64,187,13
+835,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",202,2025-01-17,7.2,46,344,25
+836,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",229,2025-06-03,6.4,84,391,10
+837,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",250,2025-04-03,4.7,41,294,50
+838,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",243,2025-08-17,8.0,64,18,47
+839,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",214,2025-05-07,9.0,83,324,5
+840,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",232,2025-08-09,1.6,42,263,35
+841,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",224,2025-01-16,4.5,47,452,15
+842,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",206,2025-03-14,9.9,88,91,6
+843,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",221,2025-02-06,0.2,24,130,5
+844,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",245,2025-04-20,4.2,46,155,40
+845,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",217,2025-06-24,8.7,51,466,14
+846,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",203,2025-06-12,6.5,15,368,23
+847,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",201,2025-03-16,0.9,51,446,31
+848,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",201,2025-01-27,6.7,95,44,0
+849,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",234,2025-04-02,2.2,8,203,14
+850,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",208,2025-06-23,0.5,82,395,41
+851,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",219,2025-01-14,4.0,50,373,6
+852,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",235,2025-04-19,0.3,12,75,30
+853,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",226,2025-06-18,0.8,58,47,43
+854,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",219,2025-04-17,1.9,13,401,8
+855,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",246,2025-01-11,6.3,10,367,39
+856,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",209,2025-01-18,3.8,61,406,30
+857,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",227,2025-05-11,4.9,61,92,48
+858,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",212,2025-08-05,5.0,82,447,49
+859,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",211,2025-05-12,9.1,31,204,34
+860,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",218,2025-06-12,3.1,24,473,9
+861,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",232,2025-05-22,4.0,16,266,8
+862,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",207,2025-02-14,2.0,55,292,36
+863,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",204,2025-01-26,5.1,56,309,32
+864,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",202,2025-02-05,2.8,87,394,32
+865,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",218,2025-07-30,0.3,55,284,45
+866,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",246,2025-02-23,5.8,9,469,41
+867,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",227,2025-05-04,3.3,70,132,9
+868,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",220,2025-08-07,1.6,0,141,33
+869,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",225,2025-01-14,0.7,98,372,44
+870,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",245,2025-01-22,5.9,37,383,13
+871,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",213,2025-05-16,5.4,46,31,26
+872,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",245,2025-03-31,10.0,2,78,3
+873,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",231,2025-05-18,2.0,41,157,11
+874,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",232,2025-08-09,5.8,100,273,40
+875,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",249,2025-05-03,7.2,51,222,35
+876,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",213,2025-03-31,5.6,22,153,48
+877,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",238,2025-06-09,9.5,43,205,13
+878,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",239,2025-01-03,1.4,40,6,14
+879,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",206,2025-05-11,8.4,67,369,9
+880,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",223,2025-07-14,1.0,92,92,36
+881,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",226,2025-02-12,9.6,31,462,47
+882,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",236,2025-07-08,3.4,50,42,40
+883,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",206,2025-08-01,9.3,67,93,0
+884,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",249,2025-06-18,9.8,56,359,4
+885,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",221,2025-02-22,1.7,44,176,4
+886,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",242,2025-04-27,4.3,67,232,0
+887,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",227,2025-06-22,2.4,76,298,17
+888,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",237,2025-04-12,5.2,97,315,2
+889,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",221,2025-01-31,1.6,4,273,22
+890,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",244,2025-01-02,9.6,22,40,43
+891,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",244,2025-01-21,6.4,20,306,48
+892,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",203,2025-06-03,1.2,95,150,21
+893,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",242,2025-06-05,8.1,42,195,36
+894,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",224,2025-07-12,1.2,86,492,23
+895,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",227,2025-02-21,1.9,84,117,35
+896,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",242,2025-02-26,5.2,96,271,14
+897,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",241,2025-06-01,9.7,55,63,14
+898,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",235,2025-01-18,5.7,36,87,9
+899,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",221,2025-04-02,6.6,78,102,1
+900,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",211,2025-05-05,1.4,82,193,34
+901,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",221,2025-06-09,8.3,93,237,44
+902,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",240,2025-02-19,9.7,79,143,25
+903,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",216,2025-05-08,7.3,57,153,48
+904,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",226,2025-07-27,8.4,63,249,25
+905,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",217,2025-03-04,3.1,3,211,39
+906,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",203,2025-06-01,8.4,25,210,39
+907,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",238,2025-08-06,1.0,11,325,6
+908,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",201,2025-06-05,6.3,91,243,1
+909,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",243,2025-02-25,2.1,2,82,26
+910,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",214,2025-03-25,3.2,79,336,44
+911,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",241,2025-05-19,9.4,95,101,25
+912,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",215,2025-07-14,8.3,74,282,34
+913,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",238,2025-08-13,3.9,95,185,32
+914,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",242,2025-05-21,4.1,20,232,22
+915,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",244,2025-07-23,1.7,94,421,21
+916,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",250,2025-03-09,2.1,86,172,47
+917,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",228,2025-01-06,4.5,3,388,30
+918,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",216,2025-02-26,4.7,52,462,18
+919,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",211,2025-08-13,6.2,3,310,21
+920,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",237,2025-08-07,1.9,27,386,16
+921,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",220,2025-04-19,6.1,76,159,24
+922,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",223,2025-06-13,0.6,76,310,34
+923,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",233,2025-02-13,4.1,73,217,20
+924,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",204,2025-07-15,8.8,9,232,3
+925,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",222,2025-04-30,1.1,28,438,47
+926,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",238,2025-06-13,2.1,0,82,2
+927,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",247,2025-06-07,7.0,73,214,29
+928,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",217,2025-04-08,1.2,52,381,33
+929,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",222,2025-03-24,9.8,6,318,42
+930,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",229,2025-03-18,3.9,84,134,27
+931,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",227,2025-05-04,4.0,25,52,22
+932,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",212,2025-03-24,1.4,17,80,19
+933,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",208,2025-01-26,6.7,74,363,2
+934,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",213,2025-01-15,4.4,98,348,23
+935,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",206,2025-02-21,0.2,32,74,46
+936,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",204,2025-07-25,3.4,52,328,20
+937,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",224,2025-03-03,1.8,94,210,14
+938,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",228,2025-06-25,2.0,80,182,48
+939,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",245,2025-04-08,7.5,44,165,25
+940,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",250,2025-05-04,1.2,44,284,17
+941,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",220,2025-05-07,2.4,55,467,9
+942,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",220,2025-03-18,4.2,30,457,36
+943,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",221,2025-01-14,5.3,73,307,16
+944,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",250,2025-06-24,6.0,7,264,42
+945,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",232,2025-05-15,1.6,57,141,21
+946,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",213,2025-04-30,9.2,46,113,25
+947,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",219,2025-06-09,0.8,75,336,46
+948,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",209,2025-08-02,4.5,3,370,45
+949,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",229,2025-08-15,5.0,19,115,33
+950,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",208,2025-06-25,6.2,44,224,1
+951,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",223,2025-07-30,7.6,17,58,47
+952,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",246,2025-02-07,5.5,44,348,32
+953,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",247,2025-04-01,8.8,80,311,6
+954,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",238,2025-04-08,7.6,96,409,38
+955,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",243,2025-01-09,3.4,73,12,46
+956,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",235,2025-07-28,3.9,48,322,38
+957,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",209,2025-08-10,5.7,41,279,31
+958,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",222,2025-07-17,7.0,74,181,47
+959,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",242,2025-03-02,6.4,73,28,45
+960,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",210,2025-02-17,6.3,47,190,45
+961,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",235,2025-05-19,7.1,40,143,37
+962,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",222,2025-06-21,5.7,13,306,32
+963,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",214,2025-06-30,4.7,36,108,29
+964,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",209,2025-06-07,9.8,13,45,45
+965,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",248,2025-05-15,4.0,45,422,13
+966,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",243,2025-07-30,9.8,21,471,30
+967,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",203,2025-01-28,1.9,37,276,19
+968,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",224,2025-07-22,4.7,7,299,50
+969,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",218,2025-03-09,9.4,41,433,45
+970,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",228,2025-01-15,5.2,8,470,34
+971,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",204,2025-06-07,7.5,45,185,7
+972,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",224,2025-04-27,2.6,16,243,28
+973,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",250,2025-06-01,6.5,0,416,2
+974,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",221,2025-08-17,9.9,61,92,10
+975,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",242,2025-02-18,5.7,87,453,45
+976,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",217,2025-01-08,8.0,47,104,2
+977,Pet Meetup,Meet and share fun activities for your pets (Limited Slots),"pets,community",238,2025-07-03,8.1,42,56,16
+978,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",221,2025-01-05,1.4,48,241,28
+979,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",224,2025-05-10,4.9,93,471,17
+980,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",203,2025-03-16,6.6,47,130,7
+981,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",201,2025-06-19,5.3,10,214,21
+982,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",237,2025-02-25,8.2,39,243,36
+983,Pet Meetup,Meet and share fun activities for your pets (Weekly Session),"pets,community",243,2025-02-02,1.9,75,328,17
+984,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",235,2025-06-14,4.4,88,66,43
+985,Pottery Class,Weekly pottery classes for beginners (Beginner Friendly),"art,crafts",209,2025-02-18,4.9,60,438,27
+986,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",207,2025-02-16,5.3,62,226,42
+987,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",230,2025-07-23,3.3,32,392,32
+988,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",207,2025-06-10,6.1,44,121,43
+989,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",237,2025-04-18,0.4,17,380,26
+990,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",217,2025-08-15,4.1,30,142,21
+991,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",227,2025-01-19,0.1,59,24,10
+992,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",241,2025-03-26,0.3,31,474,34
+993,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",233,2025-05-04,2.0,55,463,46
+994,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",248,2025-05-12,1.3,24,195,10
+995,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",238,2025-04-27,8.8,100,480,0
+996,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",221,2025-01-19,5.1,82,37,36
+997,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",249,2025-03-10,3.3,82,392,10
+998,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",228,2025-01-15,9.7,83,367,36
+999,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",207,2025-05-22,5.4,44,377,7
+1000,Pottery Class,Weekly pottery classes for beginners (Limited Slots),"art,crafts",213,2025-05-26,0.9,16,150,3
+1001,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",207,2025-06-05,4.0,34,401,16
+1002,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",225,2025-04-26,6.3,45,149,3
+1003,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",220,2025-07-31,1.4,57,147,43
+1004,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",228,2025-06-07,8.2,10,13,49
+1005,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",230,2025-05-31,5.7,8,225,6
+1006,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",210,2025-06-30,8.3,64,174,20
+1007,Book Club,Monthly book discussions on contemporary literature (Limited Slots),"books,community",218,2025-02-24,5.7,48,222,43
+1008,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",249,2025-03-12,9.2,38,278,36
+1009,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",246,2025-04-16,9.8,64,209,31
+1010,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",237,2025-04-30,1.2,63,364,23
+1011,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",224,2025-01-19,5.4,78,303,25
+1012,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",246,2025-01-19,1.4,77,21,34
+1013,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",208,2025-02-21,4.9,60,343,20
+1014,Tech Talk,Presentations on emerging technologies (Join Now),"technology,education",229,2025-05-06,2.2,54,290,21
+1015,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",215,2025-02-01,4.7,74,462,38
+1016,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",225,2025-04-08,9.7,30,354,6
+1017,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",232,2025-02-18,9.8,35,383,3
+1018,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",222,2025-03-31,8.7,51,99,23
+1019,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",221,2025-01-26,0.4,82,187,18
+1020,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",235,2025-02-07,3.5,74,108,29
+1021,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",210,2025-02-19,2.0,31,11,36
+1022,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",210,2025-03-23,3.6,43,339,31
+1023,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",249,2025-05-12,8.6,80,266,20
+1024,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",206,2025-04-29,7.2,26,62,48
+1025,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",236,2025-03-30,5.0,87,481,3
+1026,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",226,2025-02-21,7.7,23,393,32
+1027,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",231,2025-08-04,1.0,34,25,49
+1028,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",226,2025-02-20,0.4,68,155,25
+1029,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",235,2025-04-24,2.3,85,421,29
+1030,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",232,2025-07-19,7.2,9,21,32
+1031,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",248,2025-01-16,8.0,23,136,50
+1032,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",234,2025-02-04,7.3,75,422,21
+1033,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",207,2025-05-19,1.7,5,262,20
+1034,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",205,2025-04-18,3.9,10,78,34
+1035,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",220,2025-04-21,1.4,90,150,26
+1036,Cooking Workshop,Hands-on cooking workshops for healthy meals (Weekly Session),"food,education",250,2025-05-09,3.7,27,135,49
+1037,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",237,2025-04-23,9.5,6,1,22
+1038,Food Festival,Block B food festival featuring local cuisine (Join Now),"food,event",230,2025-01-09,3.5,29,423,43
+1039,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",218,2025-02-21,4.5,67,98,4
+1040,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",226,2025-02-12,1.3,57,227,25
+1041,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",213,2025-07-30,7.1,5,93,3
+1042,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",205,2025-03-06,7.4,30,177,8
+1043,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",235,2025-03-09,4.1,16,40,39
+1044,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",219,2025-07-18,2.2,57,305,21
+1045,Book Club,Monthly book discussions on contemporary literature (Weekly Session),"books,community",225,2025-01-28,9.2,91,18,27
+1046,Block Movie Night,Outdoor movie screening every Friday evening (Join Now),"movies,entertainment",250,2025-02-06,8.4,99,458,16
+1047,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",209,2025-01-30,5.2,21,63,47
+1048,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",230,2025-04-07,1.1,86,181,15
+1049,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",212,2025-01-13,6.0,89,415,34
+1050,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Weekly Session),"gardening,workshop",221,2025-07-16,1.0,71,384,22
+1051,Food Festival,Block B food festival featuring local cuisine (Limited Slots),"food,event",237,2025-07-27,2.4,24,315,4
+1052,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",220,2025-05-18,2.7,41,294,15
+1053,Book Club,Monthly book discussions on contemporary literature (Join Now),"books,community",247,2025-03-29,2.1,28,345,29
+1054,Pet Meetup,Meet and share fun activities for your pets (Beginner Friendly),"pets,community",217,2025-02-20,1.0,4,413,20
+1055,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",207,2025-05-17,6.8,98,248,18
+1056,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",236,2025-03-15,0.0,84,16,42
+1057,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",238,2025-06-30,3.8,44,101,31
+1058,Cooking Workshop,Hands-on cooking workshops for healthy meals (Beginner Friendly),"food,education",204,2025-02-03,3.4,35,246,41
+1059,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",248,2025-06-22,2.0,36,391,30
+1060,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",217,2025-05-17,3.0,38,464,38
+1061,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",245,2025-02-15,2.4,94,394,7
+1062,Yoga Class,Morning yoga session for fitness and relaxation (Beginner Friendly),"fitness,wellness",218,2025-08-02,8.9,9,171,40
+1063,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",236,2025-02-05,3.8,1,63,5
+1064,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",246,2025-05-05,9.1,2,333,9
+1065,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",202,2025-07-01,2.1,79,206,45
+1066,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",222,2025-02-28,9.3,48,136,41
+1067,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",209,2025-07-30,6.6,9,180,48
+1068,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",205,2025-03-07,1.3,88,227,27
+1069,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",208,2025-05-20,0.7,14,377,34
+1070,Pottery Class,Weekly pottery classes for beginners (Join Now),"art,crafts",244,2025-02-11,8.5,57,224,3
+1071,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",217,2025-06-20,8.9,100,254,17
+1072,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",211,2025-08-05,2.8,21,421,18
+1073,Book Club,Monthly book discussions on contemporary literature (Beginner Friendly),"books,community",225,2025-08-10,9.4,41,184,8
+1074,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",248,2025-01-25,2.2,62,482,48
+1075,Yoga Class,Morning yoga session for fitness and relaxation (Join Now),"fitness,wellness",219,2025-03-08,1.5,56,313,8
+1076,Block Movie Night,Outdoor movie screening every Friday evening (Beginner Friendly),"movies,entertainment",222,2025-04-23,6.1,36,243,45
+1077,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",216,2025-01-13,7.0,78,373,21
+1078,Block Movie Night,Outdoor movie screening every Friday evening (Limited Slots),"movies,entertainment",238,2025-03-07,4.9,18,375,50
+1079,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",209,2025-03-10,1.2,87,451,5
+1080,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",249,2025-05-21,4.8,16,27,50
+1081,Tech Talk,Presentations on emerging technologies (Limited Slots),"technology,education",246,2025-06-21,8.7,60,234,34
+1082,Tech Talk,Presentations on emerging technologies (Weekly Session),"technology,education",230,2025-01-29,0.1,38,160,38
+1083,Cycling Group,Weekend cycling tours around the city (Limited Slots),"sports,outdoors",237,2025-07-07,7.0,26,443,14
+1084,Food Festival,Block B food festival featuring local cuisine (Beginner Friendly),"food,event",237,2025-03-19,2.0,93,436,22
+1085,Cooking Workshop,Hands-on cooking workshops for healthy meals (Limited Slots),"food,education",203,2025-05-04,9.0,65,229,16
+1086,Cooking Workshop,Hands-on cooking workshops for healthy meals (Join Now),"food,education",203,2025-02-10,8.5,95,310,13
+1087,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Limited Slots),"gardening,workshop",201,2025-05-14,7.3,12,301,9
+1088,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Beginner Friendly),"gardening,workshop",238,2025-08-08,8.6,72,409,50
+1089,Pet Meetup,Meet and share fun activities for your pets (Join Now),"pets,community",211,2025-04-26,1.5,7,376,34
+1090,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",227,2025-01-31,4.2,41,443,29
+1091,Cycling Group,Weekend cycling tours around the city (Beginner Friendly),"sports,outdoors",208,2025-04-06,5.7,35,34,50
+1092,Cycling Group,Weekend cycling tours around the city (Join Now),"sports,outdoors",250,2025-03-17,5.2,86,49,41
+1093,Yoga Class,Morning yoga session for fitness and relaxation (Limited Slots),"fitness,wellness",212,2025-04-10,0.1,80,120,42
+1094,Yoga Class,Morning yoga session for fitness and relaxation (Weekly Session),"fitness,wellness",227,2025-02-06,4.2,43,188,28
+1095,Block Movie Night,Outdoor movie screening every Friday evening (Weekly Session),"movies,entertainment",207,2025-06-01,0.1,0,213,18
+1096,Tech Talk,Presentations on emerging technologies (Beginner Friendly),"technology,education",205,2025-08-06,4.8,65,130,2
+1097,Pottery Class,Weekly pottery classes for beginners (Weekly Session),"art,crafts",223,2025-07-10,6.2,87,219,23
+1098,Gardening Workshop,Learn to plant seasonal vegetables & flowers (Join Now),"gardening,workshop",235,2025-03-02,1.1,22,135,27
+1099,Food Festival,Block B food festival featuring local cuisine (Weekly Session),"food,event",249,2025-07-20,3.4,9,474,25
+1100,Cycling Group,Weekend cycling tours around the city (Weekly Session),"sports,outdoors",230,2025-01-09,9.5,89,163,48
