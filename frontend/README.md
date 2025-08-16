@@ -72,7 +72,7 @@ frontend/
 
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/gargdivyansh1/assignment
    cd flatZ/frontend
    ```
 
