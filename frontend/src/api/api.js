@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://127.0.0.1:8000/v1/reco";
+const API_URL = import.meta.env.VITE_API_URL;
 
 export const getHomefeed = async (userId) => {
   const res = await fetch(`${API_URL}/homefeed?user_id=${userId}`, {
