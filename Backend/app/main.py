@@ -4,6 +4,10 @@ from sqlalchemy.orm import Session
 from collections import Counter
 from . import database, schemas, crud, reco_engine
 from app.models import User, Item
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 app = FastAPI()
 db = database.SessionLocal()
@@ -12,9 +16,14 @@ engine.fit_content_embeddings(db)
 engine.compute_popularity(db)
 engine.fit_cf(db)
 
+origins = [
+    os.getenv("FRONTEND_URL")
+]
+origins = [origin for origin in origins if origin is not None]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],      
+    allow_origins=origins,      
     allow_credentials=True,
     allow_methods=["*"],          
     allow_headers=["*"],          
